@@ -16,10 +16,16 @@ This project is publicly deployed and available for anyone to use.
 
 *   **Core Feature Showcase (Videos):**
 
-| MCQ Quiz Workflow | Open-Ended Quiz & AI Marking Workflow |
-| :----------------------------------------------------------: | :------------------------------------------------------------------: |
-| [![MCQ Showcase Video](assets/mcq-thumbnail.png)](assets/MCQ-showcase.mp4) | [![Open-Ended Showcase Video](assets/open-ended-thumbnail.png)](assets/open-ended-showcase.mp4) |
-| A complete walkthrough from creating a quiz, uploading materials, generating MCQs, taking the quiz with per-question feedback, and requesting AI explanations. | A demonstration of creating an open-ended quiz, AI-generating model answers, taking the quiz, and using the AI Marking feature to get a graded score and justification. |
+### MCQ Quiz Workflow
+A complete walkthrough from creating a quiz, uploading materials, generating MCQs, taking the quiz with per-question feedback, and requesting AI explanations.
+
+https://github.com/user-attachments/assets/910e10b9-53a9-4710-9198-77c69706c302
+
+---
+### Open-Ended Quiz & AI Marking Workflow
+A demonstration of creating an open-ended quiz, AI-generating model answers, taking the quiz, and using the AI Marking feature to get a graded score and justification.
+
+https://github.com/user-attachments/assets/347c2aca-9802-4622-836f-0150e98dc047
 
 ---
 
